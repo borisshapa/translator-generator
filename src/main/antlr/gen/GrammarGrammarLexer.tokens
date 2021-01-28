@@ -1,0 +1,7 @@
+ARROW=1
+EPS=2
+NODE=3
+TERMINAL=4
+'->'=1
+'\\eps'=2
+'\'~\'\''=4

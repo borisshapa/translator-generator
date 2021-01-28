@@ -1,0 +1,14 @@
+NON_TERMINAL=1
+ARROW=2
+EPS=3
+LBRACKET=4
+RBRACKET=5
+ASSIGN=6
+OR=7
+TERMINAL=8
+'->'=2
+'\\eps'=3
+'{'=4
+'}'=5
+'='=6
+'|'=7

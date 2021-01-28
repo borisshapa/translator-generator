@@ -1,0 +1,12 @@
+Brackets=1
+Arrow=2
+Eps=3
+String=4
+Node=5
+Regex=6
+Whitespace=7
+Newline=8
+Skip=9
+'->'=2
+'\\eps'=3
+'skip'=9
